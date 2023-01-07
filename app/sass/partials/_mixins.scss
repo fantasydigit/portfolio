@@ -1,0 +1,27 @@
+// Slow animation
+@mixin slowAnimation {
+  -webkit-transition: all 0.25s ease;
+  -moz-transition: all 0.25s ease;
+  -ms-transition: all 0.25s ease;
+  -o-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+}
+
+@mixin line($width, $color){
+  background-color: $color;
+  content: "";
+  display: block;
+  height: 1px;
+  width: $width;
+  margin: 0 auto;
+}
+
+@mixin lineWithMargin($width, $color, $top, $bottom) {
+  @include line($width, $color);
+  margin: $top auto $bottom auto;
+}
+
+@mixin textShadow {
+  text-shadow: 0 -1px 1px #FFFFFF, 0 1px 1px #666666;
+}
+

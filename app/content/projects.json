@@ -1,0 +1,57 @@
+{
+  "claim":"These are some projects I have been developing as a freelancer for several years.",
+  "projects": [
+    { "title":"Lego Website" ,
+      "teaser":"AngularJS-based marketing website",
+      "infoText":"LEGO, a Danish company, manufactures plastic toys. The company was founded in 1949 in Billund, Denmark. Even though the website for the company launched in 1996, and has gone under many changes, AngularJS developers are now handling their website.",
+      "url":"https://www.lego.com/",
+      "image":{"url":"images/content/lego.PNG", "orientation":"vertical"},
+      "created":"1996",
+      "upgraded":"Feburary 2020",
+      "collaborators":[{"name":"Christian Schäfer", "link":"https://twitter.com/aphexz"}]
+    },
+    { "title":"Angular JS Website" ,
+      "teaser":"AngularJS-based marketing website",
+      "infoText":"Angularjs.org is a website for learning AngularJS. This site contains videos, free course, tutorials, and case studies to learn AngularJS. This site gives a perfect platform for learning AngularJS to a novice. I also first started learning AngularJS from this site.",
+      "url":"https://angularjs.org/",
+      "image":{"url":"images/content/anglarjs.PNG", "orientation":"horizontal"},
+      "created":"2011 & 2012",
+      "upgraded":"January 2021",
+      "collaborators":[{"name":"Joachim Fröstl", "link":"https://twitter.com/JoggaF"}]
+    },
+    { "title":"Postmates Website" ,
+      "teaser":"ReactJS-based restaurant website",
+      "infoText":"On-demand delivery from every restaurant and store in your city. They are massive in the US. Maybe they will be the ones to find a sustainable business model for on-demand food delivery for individuals.",
+      "url":"https://postmates.com/",
+      "image":{"url":"images/content/postmates.PNG", "orientation":"vertical"},
+      "created":"2012 & 2013",
+      "upgraded":"December 2020",
+      "collaborators":[{"name":"Maximilian Rudolph", "link":"https://github.com/MRudolph"},{"name":"Robin Wieruch", "link":"https://github.com/wrobin"},{"name":"Christian Schäfer", "link":"https://twitter.com/aphexz"},{"name":"Joachim Fröstl", "link":"https://twitter.com/JoggaF"},{"name":"Robert Muschner", "link":"https://twitter.com/__robem"}]
+    },
+    { "title":"Autodesk website",
+      "teaser":"Angular-based architecture website",
+      "infoText":"Autodesk uses the Angular framework on its landing page along with other frameworks and JavaScript libraries in order to create an exceptional user experience for its over 25 million monthly visitors.",
+      "url":"https://www.autodesk.com/",
+      "image":{"url":"images/content/autodesk.PNG", "orientation":"horizontal"},
+      "created":"2012",
+      "upgraded":"June 2021"
+    },
+    { "title":"Crunchbase Website",
+      "teaser":"Angular-based social website",
+      "infoText":"The site was launched in 2007 and back then, it was part of TechCrunch, which acted as its database and startup analysis tool. Crunchbase grew in popularity and has become one of the most popular analytical tools and funding platforms for many global startups.\n\nThe company uses the Angular framework for its frontend among many other technologies to ensure a great user experience and that its features work as they should.",
+      "url":"https://www.crunchbase.com/",
+      "image":{"url":"images/content/Crunchbase.png", "orientation":"horizontal"},
+      "created":"2011",
+      "upgraded":"September 2022"
+    },
+    { "title":"Battlefield",
+      "teaser":"Mobile video game",
+      "infoText":"Battlefield is a series of first-person shooter video games developed by Swedish company EA DICE and is published by American company Electronic Arts. It started out on Microsoft Windows and OS X with Battlefield 1942, which was released in 2002. The Battlefield series has been played by more than 50 million players worldwide as of August 2012.[1][2]",
+      "url":"https://www.ea.com/ea-studios/industrial-toys/news/battlefield-mobile-open-beta",
+      "image":{"url":"images/content/battlefield.jpg", "orientation":"horizontal"},
+      "created":"2012",
+      "upgraded":"January 2022",
+      "collaborators":[{"name":"Daniel Breining", "link":"http://www.danielbreining.de"}]
+    }
+  ]
+}

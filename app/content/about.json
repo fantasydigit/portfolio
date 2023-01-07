@@ -1,0 +1,10 @@
+{
+  "claim":"I have 5+ years of web development experience and I'm familiar with many frameworks such as Angular, Angular JS, React JS, Laravel, Node JS and so on. Especially, I have enough experience and knowledge about Angular and Angular Js. If you just trust on me, I'll do my best and you'll never disappoint about me.",
+  "about":{
+    "profile_image":{"url":"images/content/profile.jpg", "orientation":"vertical"},
+    "twitter": {"url":"https://twitter.com/sfroestl"},
+    "github":{"url":"https://github.com/sfroestl"},
+    "email":{"login":"sebastian", "domain":"froestl.biz"},
+    "contact_text":"feel free to get in touch with me."
+  }
+}
